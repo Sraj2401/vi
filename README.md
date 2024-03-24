@@ -1,1 +1,2 @@
-# vi
+ vi
+ idea
